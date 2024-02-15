@@ -529,6 +529,7 @@ img.direction-2:hover{
     width: 100%;
     border: none;
     background-color: #eae8e8;
+    color:#000;
     cursor:pointer;
     font-size:16px;
 
