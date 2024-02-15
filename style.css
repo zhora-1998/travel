@@ -438,6 +438,14 @@ img.direction-2:hover{
     .scrol{
         margin: 0 auto;
     }
+    .marker-text-text p{
+
+    }
+}
+@media screen and (max-width:500px){
+    .marker-text-text p{
+        display:none;
+    }
 }
 /*-------------------------------------*/
 .choose{
